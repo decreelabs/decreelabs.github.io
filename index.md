@@ -2,7 +2,7 @@ Thanks for stopping by. You will find most of the information you need regarding
 
 For everything else, please raise a request by visiting our [customer support portal](https://decreelabs.atlassian.net/servicedesk/customer/portal/3).
 
-[Apps](apps.md) [Data Security](data-storage.md) [Privacy Policy](privacy-policy.md)
+[Apps](apps.md) | [Data Security](data-storage.md) | [Privacy Policy](privacy-policy.md)
 
 Below are the SLA's we try and adhere with.
 
